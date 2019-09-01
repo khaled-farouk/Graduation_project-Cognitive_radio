@@ -1,5 +1,5 @@
 # Graduation_project-Cognitive_radio
-SoC Based FPGA Implementation of A Complete Cognitive Cooperative Spectrum Sensing System
+SoC Based FPGA Implementation of A Complete Cognitive Cooperative Spectrum Sensing System//
 Due to the repaid development in wireless technology, such as IoT WSN and 5 G, the demand for wireless
 communication has increased and the current standard can’t fulfill this demand Cognitive radio ( is a promising
 technology that improves the spectrum utilization efficacy CR is an intelligent network that has cognitive and
