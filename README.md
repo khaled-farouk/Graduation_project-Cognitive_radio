@@ -70,3 +70,6 @@ Proposed Work In an actual reporting scenario, the number of available reporting
 CRs numbers So 4 proposes a reporting channel design based on Aloha random access protocol Our contribution
 here is optimizing the SPRT hypothesis algorithm and User selection algorithm with Aloha protocol to reduce the
 number of CRs and therefor reduce the transmission collision in the channel and increase the probability of detection
+
+
+
