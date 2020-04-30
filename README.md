@@ -23,6 +23,7 @@ model we assume that there are N SUs and single FC as shown in Fig 1 every SU se
 compresses the signal using Sparse Binary Sensing algorithm and reports it to FC At FC, all reported signals are jointly
 recovered using Sparse Bayesian Learning (M SBL) algorithm, as all signals are correlated The reconstructed signals are
 passed to filter bank then to energy detector which its output is passed to data fusion and hypothesis testing stage
+![](54228860_796268637407160_6204257800135114752_n.png)
 ________+++++++++_____________________________________
 2//Data fusion and Hypothesis testing:: Data fusion is an important element in Cooperative sensing It
 is a process of combining local sensing data for hypothesis testing There are three ways for combining, soft combining,
